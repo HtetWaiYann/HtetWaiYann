@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Next.js**
 
-- 👨‍💻 All of my projects are available at [www.htetwaiyan.tech](www.htetwaiyan.tech)
+- 👨‍💻 All of my projects are available at [www.htetwaiyan.tech](https://www.htetwaiyan.tech)
 
 - 💬 Ask me about **MEAN Stack, Python, AWS**
 
