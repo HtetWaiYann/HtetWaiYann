@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htetwaiyann&label=Profile%20views&color=0e75b6&style=flat" alt="htetwaiyann" /> </p>
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently working with Angular, React and Svelte.
 
 - 👨‍💻 All of my projects are available at [www.htetwaiyan.tech](https://www.htetwaiyan.tech)
 
