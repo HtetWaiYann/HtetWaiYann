@@ -9,7 +9,7 @@
 - 🚀 Experienced in **Angular, React, Next.js, Svelte, Node.js, Python**
 - ☁️ Skilled in **AWS, DigitalOcean, CI/CD pipelines, CloudFormation**
 - 🤖 Currently exploring **AI & Machine Learning systems**
-- 👨‍💻 Portfolio: **https://www.htetwaiyan.tech**
+- 👨‍💻 Portfolio: **[https://htetwaiyan.vercel.app**](https://htetwaiyan.vercel.app/)
 - 💬 Ask me about **Full-Stack Development, Cloud Architecture, APIs, Databases**
 - 📫 Contact: **hwy.dev@gmail.com**
 
@@ -28,9 +28,9 @@
 
 <h3 align="left">Featured Projects:</h3>
 
-**📘 KHub – Online Learning Platform**  
-- Course management, grading, dashboards, payments, quizzes, discussions  
-- Tech: Angular, Flutter, Python, DynamoDB  
+**📘 Workflow Builder
+- A simplied version of workflow builder
+- Tech: React, Nodejs, Postgres, BullMQ Redis, Websocket
 
 **📚 MMBookHive – Book Community App**  
 - Reviews, ratings, reading goals, shelves  
